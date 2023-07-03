@@ -1,6 +1,6 @@
 # 👋Hi, Here is Icarus Database Group
 
-<img src="/imgs/Icarus.svg" alt="Icarus Database Group logo" height="200px" align="center" />
+<img src="https://github.com/IcarusDB/.github/blob/main/imgs/Icarus.svg" alt="Icarus Database Group logo" height="300px" align="center" />
 
 ---
 
